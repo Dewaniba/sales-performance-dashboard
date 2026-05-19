@@ -13,8 +13,8 @@ An interactive Power BI dashboard built to analyze $1.57M in sales data across 4
 ## 📁 Files in This Repository
 | File | Description |
 |------|-------------|
-| `Sales_Dashboard_By_Dewan_Sukhani.pbix` | Power BI dashboard file |
-| `README.md` | Project documentation |
+| [Sales_Dashboard_By_Dewan_Sukhani.pbix](Sales_Dashboard_By_Dewan_Sukhani.pbix) | Power BI dashboard file |
+| [README.md](README.md) | Project documentation |
 
 > **Note:** To open the `.pbix` file, you need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free to download).
 
